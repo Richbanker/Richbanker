@@ -1,5 +1,8 @@
 # Илья Гажиенко
 
+
+[![Просмотры профиля](https://vbr.nathanchung.dev/badge?page_id=Richbanker.Richbanker&text=Profile_Views)](https://github.com/Richbanker/Richbanker)
+
 Frontend-разработчик с опытом более 3 лет.
 
 Разрабатываю интерфейсы и клиентские приложения на React и TypeScript. Работаю с REST API, управлением состоянием, визуализацией данных, тестированием и fullstack-интеграциями.
