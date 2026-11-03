@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://rebrand.ly/richbanker-dev">Портфолио</a> ·
+  <a href="https://github.com/Richbanker#основные-проекты">Проекты и демо</a> ·
   <a href="https://www.olgagazhienko.ru">Production-проект</a> ·
   <a href="https://github.com/Richbanker?tab=repositories">Все репозитории</a>
 </p>
@@ -50,15 +50,17 @@
 
 ## Основные проекты
 
+Откройте **код** и **демо** отдельно. Продакшен-магазин — действующий продукт; остальные ссылки показывают публичные учебные и портфолио-сценарии. В демо не требуется оформлять заказы или передавать ключи внешних сервисов.
+
 | Проект | Что реализовано | Стек |
 |---|---|---|
 | **[PDF Recipes Store](https://www.olgagazhienko.ru)** | Коммерческий магазин PDF-рецептов: каталог, YooKassa, webhook, email, защищённая выдача файлов, SEO и production-мониторинг | Next.js, TypeScript, Supabase, YooKassa, R2, Resend |
-| **[Dino Game](https://github.com/Richbanker/dino-game)** | Командная Canvas-игра с SSR, авторизацией, форумом, лидербордом, offline-режимом и серверной частью. Роль: тимлид | React, TypeScript, Redux, Express, PostgreSQL, Docker |
-| **[Stellar Burger](https://github.com/Richbanker/react-burger)** | Конструктор заказов, drag-and-drop, лента заказов, WebSocket, маршрутизация и тестирование пользовательских сценариев | React, TypeScript, Redux Toolkit, React DnD, Playwright |
-| **[TypeScript Messenger](https://github.com/Richbanker/middle.messenger.praktikum.yandex)** | Мессенджер без фреймворка: собственная компонентная модель, EventBus, Router, HTTP и WebSocket | TypeScript, Vite, Handlebars, WebSocket |
-| **[PROGIS Map](https://github.com/Richbanker/PROGIS-Map)** | Интерактивная карта с XYZ/WMS/WFS-слоями, GetFeatureInfo, GeoJSON и управлением порядком слоёв | React, TypeScript, Leaflet, Zustand, dnd-kit |
-| **[DataGrid Designer](https://github.com/Richbanker/UI-BUILDER)** | Визуальный конструктор таблиц: колонки, фильтры, сортировка, агрегации и экспорт данных | React, TypeScript, JSON/CSV, CI |
-| **[PulseBoard](https://github.com/Richbanker/pulseboard)** | Дашборд с потоком событий, графиками, состоянием подключения и адаптивным интерфейсом | React, TypeScript, Zustand, Recharts, WebSocket |
+| **[Dino Game](https://github.com/Richbanker/dino-game)** · [Демо](https://dino-game-pi-black.vercel.app/game) | Командная Canvas-игра с SSR, авторизацией, форумом, лидербордом, offline-режимом и серверной частью. Роль: тимлид | React, TypeScript, Redux, Express, PostgreSQL, Docker |
+| **[Stellar Burger](https://github.com/Richbanker/react-burger)** · [Демо](https://richbanker.github.io/react-burger/) | Конструктор заказов, drag-and-drop, лента заказов, WebSocket, маршрутизация и тестирование пользовательских сценариев | React, TypeScript, Redux Toolkit, React DnD, Playwright |
+| **[TypeScript Messenger](https://github.com/Richbanker/middle.messenger.praktikum.yandex)** · [Демо](https://richbanker.github.io/middle.messenger.praktikum.yandex/) | Мессенджер без фреймворка: собственная компонентная модель, EventBus, Router, HTTP и WebSocket; приватные сценарии требуют входа | TypeScript, Vite, Handlebars, WebSocket |
+| **[PROGIS Map](https://github.com/Richbanker/PROGIS-Map)** · [Демо](https://richbanker.github.io/PROGIS-Map/) | Интерактивная карта с XYZ/WMS/WFS-слоями, GetFeatureInfo, GeoJSON и управлением порядком слоёв | React, TypeScript, Leaflet, Zustand, dnd-kit |
+| **[DataGrid Designer](https://github.com/Richbanker/UI-BUILDER)** · [Демо](https://ui-builder-green.vercel.app/) | Визуальный конструктор таблиц: колонки, фильтры, сортировка и агрегации | React, TypeScript, CI |
+| **[PulseBoard](https://github.com/Richbanker/pulseboard)** · [Демо](https://pulseboard-delta.vercel.app/) | Дашборд с потоком событий, графиками, состоянием подключения и адаптивным интерфейсом | React, TypeScript, Zustand, Recharts, WebSocket |
 | **[MAX Chat](https://github.com/Richbanker/green-api-max-chat)** · **[Demo](https://richbanker.github.io/green-api-max-chat/)** | Адаптивный интерфейс личной переписки через GREEN-API MAX | React 19, TypeScript, Vite, REST API |
 
 ## Другие проекты
